@@ -3,6 +3,8 @@ jquery-imgSlideInput
 
 An image slider binding with input. This can be used in some special forms.
 
+See demo here: http://jennieji.github.io/jquery-imgSlideInput
+
 
 SETTINGS
 ====================
